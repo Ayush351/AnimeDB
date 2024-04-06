@@ -30,10 +30,11 @@ function Sidebar() {
 
 const SidebarStyled = styled.div`
     margin-top: 2rem;
-    background-color: #fff;
-    border-top: 5px solid #e5e7eb;
-    padding-right: 5rem;
-    padding-left: 2rem;
+    background-color: #DAC0A3;
+    border-top: 5px solid #0F2C59;
+    color : #0F2C59;
+    padding-right: 3rem;
+    padding-left: 3rem;
     padding-top: 2rem;
     .anime{
         display: flex;
@@ -42,16 +43,16 @@ const SidebarStyled = styled.div`
         img{
             width: 100%;
             border-radius: 5px;
-            border: 5px solid #e5e7eb;
+            border: 5px solid #0F2C59;
         }
         a{
             margin-top: 1rem;
             display: flex;
             flex-direction: column;
             gap: .4rem;
-            color: #27AE60;
+            color: #0F2C59;
             h4{
-                font-size: 1.1rem;
+                font-size: 1rem;
             }
         }
     }

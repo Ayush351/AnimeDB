@@ -39,18 +39,18 @@ const PopularStyled = styled.div`
         margin-top: 2rem;
         padding-top: 2rem;
         padding-bottom: 2rem;
-        padding-left: 5rem;
-        padding-right: 0;
+        padding-left: 3rem;
+        padding-right: 3rem;
         width: 100%;
         display: grid;
-        grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+        grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
         grid-gap: 2rem;
-        background-color: #fff;
-        border-top: 5px solid #e5e7eb;
+        background-color: #EADBC8;
+        border-top: 5px solid #0F2C59;
         a{
             height: 500px;
             border-radius: 7px;
-            border: 5px solid #e5e7eb;
+            border: 5px solid #0F2C59;
         }
         a img{
             width: 100%;
