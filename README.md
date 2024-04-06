@@ -7,10 +7,19 @@ The Anime Exploration App is a dynamic web application built using React JS, des
 
 #### Comprehensive Anime Details: Each anime entry provides comprehensive details such as synopses, trailers, and character insights. This enriches the user experience, allowing fans to dive deeper into the world of their favorite shows.
 
+
+https://github.com/Ayush351/AnimeDB/assets/41275743/33a51093-76c9-440a-ba7b-9c9430465450
+
+
+
 ## Technologies Used
 
 React JS: The frontend of the application is built using React JS, offering a responsive and dynamic user interface.
 REST API: Backend APIs are integrated to fetch anime data and provide seamless communication between the frontend and backend.
+
+### Demo Link : https://anime-db-rouge.vercel.app/
+
+
 
 ## Getting Started
 To get started with the Anime Exploration App, follow these steps:
